@@ -22,7 +22,7 @@
               "apps/portfolio/src/assets"
             ],
             "styles": ["apps/portfolio/src/styles.scss"],
-            "scripts": []
+            "scripts": ["src/assets/js/typewriter.js"]
           },
           "configurations": {
             "production": {
