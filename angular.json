@@ -19,10 +19,13 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "apps/portfolio/src/favicon.ico",
+              "apps/portfolio/src/about.html",
+              "apps/portfolio/src/contact.html",
+              "apps/portfolio/src/work.html",
               "apps/portfolio/src/assets"
             ],
-            "styles": ["apps/portfolio/src/styles.scss"],
-            "scripts": ["src/assets/js/typewriter.js"]
+            "styles": ["apps/portfolio/src/styles/styles.scss"],
+            "scripts": ["apps/portfolio/src/typewriter.ts"]
           },
           "configurations": {
             "production": {
